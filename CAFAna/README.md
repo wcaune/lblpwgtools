@@ -26,7 +26,7 @@ Now you can go ahead and install.
 
 I recommend building in your `/app/` area. 
 ```
-cd /exd/dune/app/users/{you}
+cd /exp/dune/app/users/{you}
 mkdir tutorial-sep24
 ```
 Clone this branch of the repository:
